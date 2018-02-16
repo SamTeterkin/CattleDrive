@@ -1,5 +1,8 @@
 import java.math.BigInteger;
 
+/**
+ * Class showing BigInteger usage.
+ */
 public class Grains
 {
     public static void main(String[] args)
